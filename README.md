@@ -13,3 +13,13 @@ What can this A.I. assistant do for you ?
 - It is capable of opening websites like Google, Youtube, etc., in a web browser.
 - It is capable of opening your code editor or IDE with a single voice command.
 - Enough talks! Let's start building our own S.C.R.A.P.
+
+To run this project you have to import some module listed below or have to install modules using pip install in your command/terminal.
+
+import pyttsx3 #pip install pyttsx3
+import speech_recognition as sr #pip install speechRecognition
+import datetime
+import wikipedia #pip install wikipedia
+import webbrowser
+import os
+import smtplib
